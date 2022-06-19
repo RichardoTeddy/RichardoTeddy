@@ -16,7 +16,7 @@
 ### I am a Passionate Informatics Student!
 ![I am a Passionate Informatics Student](https://mir-s3-cdn-cf.behance.net/be35b889ed57b82fa73d1fb28f81967d/f3c78261-3b30-4287-ad2d-c4f375449ca9_rwc_283x0x2633x410x3200.jpg?h=3b86371e7f7d1db75b6459df6bf56415)
 
-I am a 21 year undergraduate student at the Department of Informatics, Sanata Dharma University.
+I am a student at the Department of Informatics, Sanata Dharma University.
 - **Staff Creative Team** PT United Tractors Tbk
 - **Graphic Design, Web Developer, Content Creator** CV Antarestar Outdoor
 
