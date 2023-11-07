@@ -21,10 +21,10 @@ I am a student at the Department of Informatics, Sanata Dharma University.
 - **Graphic Design, Web Developer, Content Creator** CV Antarestar Outdoor
 
 Skills: 
-- __Software Development__: Java, Android Studio
+- __Software Development__: Netbeans,VS Code,Android Studio,MySQL,Cisco Packet Tracer,Git,Intellij IDEA
 - __Cinematography__: Editing & Directing
-- __Programming__: Java,HTML,CSS,JavaScript,PHP
-- __Design__: Figma,Photoshop,Illustrator
+- __Programming__: Java,Kotlin,Python,HTML,CSS,Javascript,PHP,CodeIgniter4,Bootstrap,Query
+- __Design__: Figma,Photoshop,Illustrator,Canva
 
 Social Media:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RichardoTeddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/richardo-teddy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rrc7_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='YouTube' height='40'>](https://www.behance.net/richardoteddy) 
