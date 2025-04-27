@@ -53,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RichardoTeddy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardoTeddy&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=RichardoTeddy.RichardoTeddy" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=RichardoTeddy&color=blueviolet&style=flat-square" alt="Profile views counter" />
 </p>
+
