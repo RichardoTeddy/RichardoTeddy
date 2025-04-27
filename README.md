@@ -10,6 +10,7 @@
 ## 🚀 Current Positions
 - 🏢 **Staff Creative Team** at PT United Tractors Tbk
 - 💼 **Graphic Design, Web Developer, Content Creator** at CV Antarestar Outdoor
+- 💼 **Graphic Design, Web Developer, Content Creator** at BMKG
 
 ## 🛠 Skills & Tools
 
